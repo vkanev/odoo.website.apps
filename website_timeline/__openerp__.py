@@ -1,4 +1,6 @@
 {
+    'price': 0.00, 
+    'currency': 'EUR',
     'name': 'Timeline Building Block',
     'category': 'Website',
     'summary': 'Building Block that allows you to create timelined content',
